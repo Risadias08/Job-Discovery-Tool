@@ -1,0 +1,10 @@
+[
+  { "id": "iit-delhi", "name": "IIT Delhi", "city": "Delhi", "lat": 28.545, "lng": 77.1926 },
+  { "id": "du-north", "name": "Delhi University (North Campus)", "city": "Delhi", "lat": 28.6879, "lng": 77.21 },
+  { "id": "jnu", "name": "JNU", "city": "Delhi", "lat": 28.5402, "lng": 77.1662 },
+  { "id": "iit-bombay", "name": "IIT Bombay", "city": "Mumbai", "lat": 19.1334, "lng": 72.9133 },
+  { "id": "iisc", "name": "IISc Bangalore", "city": "Bengaluru", "lat": 13.0219, "lng": 77.5671 },
+  { "id": "christ-blr", "name": "Christ University (Bengaluru)", "city": "Bengaluru", "lat": 12.9346, "lng": 77.6057 },
+  { "id": "iit-madras", "name": "IIT Madras", "city": "Chennai", "lat": 12.9916, "lng": 80.2336 },
+  { "id": "manipal", "name": "Manipal Academy of Higher Education", "city": "Manipal", "lat": 13.3525, "lng": 74.7867 }
+]
