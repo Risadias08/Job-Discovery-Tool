@@ -8,7 +8,6 @@ A job discovery web app for international students studying in India. It collect
 
 - One-page write-up: [WRITEUP.md](WRITEUP.md)
 - Scraper details: [SCRAPER.md](SCRAPER.md)
-- Demo video script: [docs/video]
 
 ## Problem
 
